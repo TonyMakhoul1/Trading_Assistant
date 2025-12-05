@@ -24,7 +24,6 @@ All agents collaborate using CrewAI to generate a complete trading recommendatio
 * **CrewAI** – Multi-agent orchestration
 * **Streamlit** – Web UI
 * **yfinance** – Real-time stock market data
-* **Pandas** – Data processing
 
 ## 📂 Project Structure
 
@@ -61,9 +60,6 @@ crew_ai_multi_agents/
 4. **Trading Recommendation Agent** processes the analysis and generates a Buy/Sell/Hold recommendation with a clear explanation.
 5. Results are displayed in the Streamlit dashboard.
 
-## 🔐 Environment Variables (.env)
-
-No API keys are strictly required for yfinance, but you can manage configuration using a `.env` if needed.
 
 ## ▶️ How to Run the Project
 
@@ -104,10 +100,6 @@ This project demonstrates:
 * AI reasoning for decision-making
 * End-to-end product-ready AI system
 
-**Perfect for:**
-* AI Engineer portfolios
-* Machine Learning and Financial AI projects
-* Demonstrating CrewAI multi-agent capabilities
 
 ## 📌 Future Enhancements
 
@@ -120,16 +112,7 @@ This project demonstrates:
 ## 👨‍💻 Author
 
 **Tony Makhoul**  
-Computer Engineering Student | AI & Machine Learning Enthusiast  
-Lebanese International University
-
-## ⭐ If you like this project
-
-Feel free to:
-* ⭐ Star the repository
-* 🛠️ Contribute
-* 🔁 Fork it
+Computer Engineering Student | AI Engineer | ML/DL Engineer
+ - Lebanese International University
 
 ---
-
-> "AI-powered agents make complex stock decisions simple and accessible." 🚀
