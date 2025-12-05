@@ -112,7 +112,7 @@ This project demonstrates:
 ## 👨‍💻 Author
 
 **Tony Makhoul**  
-Computer Engineering Student | AI Engineer | ML/DL Engineer
+Computer Engineer | AI Engineer | ML/DL Engineer
  - Lebanese International University
 
 ---
